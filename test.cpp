@@ -4,4 +4,5 @@ int main()
 {
     cout << "hello" << endl;
     cout << "dong 1" << endl;
+    cout << "dong 2" << endl;
 }
